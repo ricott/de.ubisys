@@ -11,7 +11,7 @@
   "class": "socket",
   "capabilities": [
     "onoff",
-    "onoff.2",
+    "onoff.S2",
     "measure_power"
   ],
   "images": {
